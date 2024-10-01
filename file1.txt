@@ -1,3 +1,5 @@
 My new Project
 
 Added new feature to my project
+
+Added test 1
